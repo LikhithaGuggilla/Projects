@@ -26,10 +26,16 @@ This project's principal objective is to employ a machine learning model that ac
 * **The Best Model:**
   ![image](https://github.com/LikhithaGuggilla/Projects/assets/159668644/a59cef91-2269-41db-be47-324287170ec3)
 
+* The below links provide full details of the project:
+  Executive Summary-https://github.com/LikhithaGuggilla/Projects/blob/main/Customer_Credit_Risk_Assessment/Credit_Risk_Assessment_Executive_Summary.docx
+  Project PPT-https://github.com/LikhithaGuggilla/Projects/blob/main/Customer_Credit_Risk_Assessment/Credit_Risk_Assessment_Project.pptx
+
 ## Business Value
 * To mitigate the inherent risks associated with loan repayment, Decision Tree model recommends a strategic approach for businesses.By focusing on lending to the top 20% of customers identified as low risk, businesses substantially increase the likelihood of loan repayment. Our analysis indicates that this targeted strategy boosts the chances of successful repayment by 1.7 times compared to a broader customer base.
 
 ![image](https://github.com/LikhithaGuggilla/Projects/assets/159668644/a291bb52-19c2-47c0-99fb-392a18f65f97)
+
+
 
 
   
