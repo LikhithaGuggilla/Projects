@@ -2,7 +2,7 @@
 'Is this customer trust-worthy? Can we lend them a loan?'- The question that most of the financial organizations have! Assessing a customer's credit worthiness is a time consuming, uncertain and risky task for making accurate lending decisions. 
 
 ## Objective
-This project's principal objective is to employ a machine learning model that accurately classifies a global finance company's customers into different credit score brackets ["High-Risk", "Low_Risk"] considering customer's personal, bank, credit-related information over years and help them make informed loan-lending decisions within no time.
+This project's principal objective is to employ a predictive model that accurately classifies a global finance company's customers into different credit score brackets ["High-Risk", "Low_Risk"] considering customer's personal, bank, credit-related information and help them make informed loan-lending decisions.
 
 ## Project Details
 -> The selected dataset is extracted from kaggle, which contains customer information of a globally renowned finance company.
